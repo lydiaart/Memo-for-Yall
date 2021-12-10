@@ -10,6 +10,6 @@ router.get('/notes', (req, res) => {
     res.sendFile(path.join(__dirname, '../public/notes.html'))
 })
 
-appendFile.get('/', (req, res) => res.send(''))
+
 
 module.exports = router;
