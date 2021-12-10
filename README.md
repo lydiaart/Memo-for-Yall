@@ -38,7 +38,7 @@ Please lick on the following link for clearer video:
 
 ## Credits
 
-Start code from Xandromus<br>
+Start code from <a href="https://github.com/coding-boot-camp/miniature-eureka">Xandromus</a><br>
 Lydia Loy
     
 ## Questions
