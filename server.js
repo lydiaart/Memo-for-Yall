@@ -8,7 +8,7 @@ app.use(express.urlencoded({ extended: true }))
 app.use(express.json())
 
 app.use(require('./routes/htmlRoutes'))
-
+app.use(require('./routes/apiRoutes'))
 
 app.listen(PORT, () => {
     console.log(' App is listening on PORT ', PORT)
