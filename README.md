@@ -29,7 +29,7 @@ This application is to assist small business owners to write, save and delete no
 ## Usage 
 The following image demonstrates the web application's appearance and functionality:
 <p><img src="./public/assets/Memo-for-Yall.gif"/></p>
-Please lick on the following link for clearer video:
+Please click on the following link for clearer video:
 <p><a href="https://watch.screencastify.com/v/TpKxhN8c6zK1JIz556NQ">Link</a></p>
 
 ## Website
